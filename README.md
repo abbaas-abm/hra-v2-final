@@ -41,7 +41,7 @@ This repository contains the complete source code for the custom moving and logi
 ### Contract & Ownership
 
 Fixed-price project: **R10,000.00** (all inclusive)  
-Upon full payment (received), **100% of the intellectual property, source code, and rights** were transferred to **HRA Transportation (Pty) Ltd**.
+Upon full payment (received), **100% of the intellectual property, source code, and rights** will be transferred to **HRA Transportation (Pty) Ltd**.
 
 ### Repository Structure
 ├── client/            # React frontend (Vite)
